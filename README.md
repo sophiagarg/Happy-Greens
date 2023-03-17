@@ -1,8 +1,8 @@
-# TinDog Website
+# Happy Greens Website
 
-Meet new and interesting dogs nearby.
+Meet new,tasty and interesting salads nearby.
 
-You can view the site here [Click Me](https://meciway.github.io/tinDog-Website/) 
+You can view the site here [Click Me](https://sophiagarg.github.io/Happy-Greens/) 
 
 ## Topics
 
